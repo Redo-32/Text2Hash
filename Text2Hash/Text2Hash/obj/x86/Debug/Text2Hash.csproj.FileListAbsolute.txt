@@ -1,0 +1,8 @@
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\bin\Debug\Text2Hash.exe
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\bin\Debug\Text2Hash.pdb
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.Text2Hash_Menu.resources
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.Properties.Resources.resources
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.csproj.GenerateResource.Cache
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.exe
+c:\users\dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.pdb
+C:\Users\Dori\documents\visual studio 2010\Projects\Text2Hash\Text2Hash\obj\x86\Debug\Text2Hash.csprojResolveAssemblyReference.cache
